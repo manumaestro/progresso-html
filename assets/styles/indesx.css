@@ -9,7 +9,7 @@
 body {
     font-family: Delius;
     padding: 20px;
-    color:rgb(238, 109, 163);
+    color:rgb(224, 104, 152);
 }
 
 h1 {
@@ -52,3 +52,7 @@ h2 {
     justify-content: center;
 }
 
+
+.justify-flex-end {
+    justify-content: flex-end;
+}
